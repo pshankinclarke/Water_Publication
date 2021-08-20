@@ -1,4 +1,4 @@
-# Water Publication Backup
+# Water Publication data warehouse
 This repository stores the database for the "Effects of Wildfires and Ash Leaching on Stream Chemistry
 in the Santa Ynez Mountains of Southern California" Water journal publication. The following files are contained in this repository :
 
